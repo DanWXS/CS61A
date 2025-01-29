@@ -9,14 +9,12 @@ test = {
           >>> # Testing status parameters
           >>> slow = SlowThrower()
           >>> SlowThrower.food_cost
-          50ae32be3e31df6c59633df7fdfb3a72
-          # locked
+          6
           >>> slow.health
-          d89cf7c79d5a479b0f636734143ed5e6
-          # locked
+          1
           """,
           'hidden': False,
-          'locked': True,
+          'locked': False,
           'multiline': False
         },
         {
